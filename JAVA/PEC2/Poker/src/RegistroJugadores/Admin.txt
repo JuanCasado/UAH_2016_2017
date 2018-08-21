@@ -1,0 +1,289 @@
+--------------- NIF:Admin --------------------
+
+Fecha de registro06/05/2017
+Nombre: Admin
+Apellidos: .
+Fecha de nacimiento: 06/09/1998
+Cuenta bancaria: .
+Saldo inicial: 2300.0
+Partidas jugadas: 0
+-------------------------------------------------------------
+
+***************** Juego iniciado ***************************
+
+06/05/2017
+--------------- Apuesta realizada --------------------------
+
+06/05/2017
+En juego: 20.0
+Nuevo saldo: 2280.0
+-----------------------------------------------------------
+
+--------------- Apuesta realizada --------------------------
+
+06/05/2017
+En juego: 30.0
+Nuevo saldo: 2270.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+06/05/2017
+Dinero en Juego: 30.0
+Cartas del jugador: 
+	As	de	Oros
+	Cuatro	de	Copas
+	Nueve	de	Copas
+	Tres	de	Espadas
+Cartas de la máquina: 
+	Cinco	de	Oros
+	As	de	Copas
+	Ocho	de	Copas
+	Tres	de	Bastos
+Cartas descartadas: 
+	Caballo	de	Bastos
+Ganaste con una pareja
+Ganancia: 30.0
+Nuevo saldo: 2300.0
+--------------------------------------------------------------
+
+******************* Juego Nuevo ***************************
+
+06/05/2017
+--------------- Apuesta realizada --------------------------
+
+06/05/2017
+En juego: 10.0
+Nuevo saldo: 2290.0
+-----------------------------------------------------------
+
+--------------- Apuesta realizada --------------------------
+
+06/05/2017
+En juego: 20.0
+Nuevo saldo: 2280.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+06/05/2017
+Dinero en Juego: 20.0
+Cartas del jugador: 
+	Siete	de	Oros
+	As	de	Copas
+	Cuatro	de	Copas
+	Seis	de	Copas
+Cartas de la máquina: 
+	Ocho	de	Oros
+	Caballo	de	Copas
+	Seis	de	Espadas
+	Caballo	de	Bastos
+Cartas descartadas: 
+	Rey	de	Copas
+Gana la máquina con una pareja
+Ganancia: -20.0
+Nuevo saldo: 2260.0
+--------------------------------------------------------------
+
+******************* Juego Nuevo ***************************
+
+06/05/2017
+--------------- Apuesta realizada --------------------------
+
+06/05/2017
+En juego: 50.0
+Nuevo saldo: 2210.0
+-----------------------------------------------------------
+
+--------------- Apuesta realizada --------------------------
+
+06/05/2017
+En juego: 550.0
+Nuevo saldo: 1710.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+06/05/2017
+Dinero en Juego: 550.0
+Cartas del jugador: 
+	Cinco	de	Oros
+	Sota	de	Oros
+	Cinco	de	Copas
+	Nueve	de	Copas
+Cartas de la máquina: 
+	Tres	de	Oros
+	Siete	de	Copas
+	Rey	de	Copas
+	Siete	de	Bastos
+Cartas descartadas: 
+	Dos	de	Espadas
+Ganaste con un trío
+Ganancia: 2200.0
+Nuevo saldo: 3910.0
+--------------------------------------------------------------
+
+***************** SALIÓ DEL JUEGO*******************************
+
+06/05/2017
+*****************************************************************
+
+***************** Juego iniciado ***************************
+
+06/05/2017
+--------------- Apuesta realizada --------------------------
+
+06/05/2017
+En juego: 10.0
+Nuevo saldo: 3900.0
+-----------------------------------------------------------
+
+--------------- Apuesta realizada --------------------------
+
+06/05/2017
+En juego: 20.0
+Nuevo saldo: 3890.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+06/05/2017
+Dinero en Juego: 20.0
+Cartas del jugador: 
+	As	de	Oros
+	Cinco	de	Oros
+	Caballo	de	Oros
+	Cinco	de	Copas
+Cartas de la máquina: 
+	Sota	de	Oros
+	Siete	de	Copas
+	Ocho	de	Copas
+	Seis	de	Espadas
+Cartas descartadas: 
+Ganaste con un trío
+Ganancia: 80.0
+Nuevo saldo: 3970.0
+--------------------------------------------------------------
+
+******************* Juego Nuevo ***************************
+
+06/05/2017
+--------------- Apuesta realizada --------------------------
+
+06/05/2017
+En juego: 10.0
+Nuevo saldo: 3960.0
+-----------------------------------------------------------
+
+--------------- Apuesta realizada --------------------------
+
+06/05/2017
+En juego: 1010.0
+Nuevo saldo: 2960.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+06/05/2017
+Dinero en Juego: 1010.0
+Cartas del jugador: 
+	Dos	de	Oros
+	Siete	de	Copas
+	Rey	de	Copas
+	Dos	de	Espadas
+Cartas de la máquina: 
+	Tres	de	Oros
+	Cuatro	de	Oros
+	Cuatro	de	Copas
+	As	de	Espadas
+Cartas descartadas: 
+Empate con: una pareja
+Ganancia: 1010.0
+Nuevo saldo: 3970.0
+--------------------------------------------------------------
+
+******************* Juego Nuevo ***************************
+
+06/05/2017
+--------------- Apuesta realizada --------------------------
+
+06/05/2017
+En juego: 10.0
+Nuevo saldo: 3960.0
+-----------------------------------------------------------
+
+--------------- Apuesta realizada --------------------------
+
+06/05/2017
+En juego: 1010.0
+Nuevo saldo: 2960.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+06/05/2017
+Dinero en Juego: 1010.0
+Cartas del jugador: 
+	Cuatro	de	Oros
+	Caballo	de	Oros
+	Tres	de	Espadas
+	Siete	de	Bastos
+Cartas de la máquina: 
+	As	de	Oros
+	Cinco	de	Oros
+	Rey	de	Oros
+	Cinco	de	Espadas
+Cartas descartadas: 
+Gana la máquina con una pareja
+Ganancia: -1010.0
+Nuevo saldo: 1950.0
+--------------------------------------------------------------
+
+***************** SALIÓ DEL JUEGO*******************************
+
+06/05/2017
+*****************************************************************
+
+***************** Juego iniciado ***************************
+
+06/05/2017
+--------------- Apuesta realizada --------------------------
+
+06/05/2017
+En juego: 10.0
+Nuevo saldo: 1940.0
+-----------------------------------------------------------
+
+--------------- Apuesta realizada --------------------------
+
+06/05/2017
+En juego: 60.0
+Nuevo saldo: 1890.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+06/05/2017
+Dinero en Juego: 60.0
+Cartas del jugador: 
+	Siete	de	Oros
+	Caballo	de	Oros
+	Sota	de	Espadas
+	Caballo	de	Espadas
+Cartas de la máquina: 
+	Seis	de	Oros
+	Cuatro	de	Copas
+	Ocho	de	Copas
+	Ocho	de	Bastos
+Cartas descartadas: 
+	Cinco	de	Espadas
+Ganaste con un trío
+Ganancia: 240.0
+Nuevo saldo: 2130.0
+--------------------------------------------------------------
+
+***************** SALIÓ DEL JUEGO*******************************
+
+06/05/2017
+*****************************************************************
+

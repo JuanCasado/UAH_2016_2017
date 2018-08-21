@@ -1,0 +1,26 @@
+.
+├── archivos_apoyo_practica3
+│   ├── archivos_c_h_apoyo
+│   │   ├── ejecutar.c
+│   │   ├── entrada_minishell.c
+│   │   ├── entrada_minishell.h
+│   │   ├── internas.h
+│   │   ├── libmemoria.c
+│   │   ├── libmemoria.h
+│   │   ├── minishell.c
+│   │   └── parser.h
+│   └── biblioteca
+│       ├── bibliotecaLinux_64bits
+│       │   └── libshell.a
+│       └── bibliotecaOSX_64bits
+│           └── libshell.a
+├── C_ejercicio_inicial.pdf
+├── Compiladores.pdf
+├── Editor_VI.pdf
+├── gdb.pdf
+├── guiamake.pdf
+├── miniShell
+│   └── tree.txt
+└── practica3-gii-ssoo-2017.pdf
+
+6 directories, 17 files

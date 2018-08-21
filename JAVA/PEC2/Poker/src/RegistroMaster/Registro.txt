@@ -1,0 +1,27 @@
+------------------------------------ Casa de apuestas -----------------------------------
+
+Dinero Registrado: 3050.0$
+Dinero Ocasional: 7954.0$
+Beneficio: 3200.0$
+Dinero total: 14204.0$
+Partidas totales: 9
+--------------------------------- Registro de Jugadores ---------------------------------
+
+Nombre: Pepe Gil Sánchez	DNI: 32424214J
+Fecha de nacimiento: 03/06/1975	Fecha de registro: 06/05/2017
+Cuenta bancaria: AFG342525KL352P	Saldo: 300.0$
+Partidas Jugadas: 0
+---------------------------------------------------------------------------------------
+
+Nombre: María del Olmo Ruiz	DNI: 12345423L
+Fecha de nacimiento: 04/10/1987	Fecha de registro: 06/05/2017
+Cuenta bancaria: JNDWQ8732428374	Saldo: 450.0$
+Partidas Jugadas: 0
+---------------------------------------------------------------------------------------
+
+Nombre: Admin .	DNI: Admin
+Fecha de nacimiento: 06/09/1998	Fecha de registro: 06/05/2017
+Cuenta bancaria: .	Saldo: 2130.0$
+Partidas Jugadas: 7
+---------------------------------------------------------------------------------------
+

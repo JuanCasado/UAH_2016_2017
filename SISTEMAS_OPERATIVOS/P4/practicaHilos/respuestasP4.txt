@@ -1,0 +1,28 @@
+Respuesta 2
+	rand_r() toma el pid del proceso (igual en todos los hilos) sumado al identificador dado a cada coche que 
+	es un integer de 0 a 6 como semilla a partir de la cual obtiene un número aleatorio que es el que permite
+	que cada coche termine la carrera en un tiempo distintinto (que el proceso finalice antes o después).
+
+Respuesta 3
+	Si el hilo inicial no espera a los otros este leerá el array clasificacionFinal antes de que los hilos de 
+	los coches lo llenen (pues estos tienen un wait) además y dependiendo de la implementación destruirá el 
+	mutex cuando queden hilos sin finalizar por lo que cuando estos lo bloqueen para entrar en la sección 
+	crítica provocarán un error o si este no se destruye para liberar memoria acabará antes de que lo hagan
+	los hilos cortando su ejecución, en ambos caso se producirá un resultado no deseado.
+
+Respuesta 4.1
+	En este caso esa implementación no sería correcta ya que cada hilo finaliza de forma aleatoria por lo que
+	desde el hilo principal no podríamos predecir cuando finalizan los otros hilos. No sabemos cual termina 
+	antes ni en qué orden lo van a hacer.
+
+Respuesta 4.2c
+	Si no se crea una sección crítica para modificar la varible finalCarrera y añadir los identificadores a 
+	clasificacionFinal dos hilos podrían modificar esas varibles a la vez produciendo un error, tampoco se podría
+	controlar a partir de la función rand_r() pues esta funcion simplememte produce un integer aleatorio a 
+	partir del cual haremos un wait, pero eso no evita que dos hilos puedan acceder a la vez a una variable 
+	producien un error.
+	Para crear la necesaria seccion crítica mentada hace falta declarar un mutex como variable global,
+	(pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;) iniciarlo en el main (pthread_mutex_init ( &mutex, NULL)
+	bloquearlo (pthread_mutex_lock(&mutex)) y desbloquearlo (pthread_mutex_unlock(&mutex)). El código entre el 
+	bloqueo y el desbloqueo sería el que está dentro de la sección crítica. Finalmente hay que liberar la memoria
+	que ocupa el mutex (pthread_mutex_destroy(&mutex);) desde el main y tras haber esperado a los hilos.

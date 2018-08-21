@@ -1,0 +1,11 @@
+--------------- NIF:12345423L --------------------
+
+Fecha de registro06/05/2017
+Nombre: María
+Apellidos: del Olmo Ruiz
+Fecha de nacimiento: 04/10/1987
+Cuenta bancaria: JNDWQ8732428374
+Saldo inicial: 450.0
+Partidas jugadas: 0
+-------------------------------------------------------------
+

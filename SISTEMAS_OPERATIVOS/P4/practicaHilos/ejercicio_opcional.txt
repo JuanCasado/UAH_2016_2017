@@ -1,0 +1,10 @@
+
+Juan Casado Ballesteros
+
+Profesora: Julia Clemente Párraga
+Laboratorio: GII Jueves 12:00-14:00h
+
+Están realizadas todas las partes de la práctica
+
+No hay mejoras adicionales relevates
+-->En el makefile hay una regla ficticia extra:"make run" que ejecuta:"clear; ./coches"

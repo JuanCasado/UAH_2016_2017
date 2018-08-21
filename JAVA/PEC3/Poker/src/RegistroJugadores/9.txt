@@ -1,0 +1,11 @@
+--------------- NIF:9 --------------------
+
+Fecha de registro29/05/2017
+Nombre: 9
+Apellidos: .
+Fecha de nacimiento: 29/09/1991
+Cuenta bancaria: .
+Saldo inicial: 765.0
+Partidas jugadas: 0
+-------------------------------------------------------------
+

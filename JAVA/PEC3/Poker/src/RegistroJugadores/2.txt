@@ -1,0 +1,99 @@
+--------------- NIF:2 --------------------
+
+Fecha de registro29/05/2017
+Nombre: 2
+Apellidos: .
+Fecha de nacimiento: 30/08/1995
+Cuenta bancaria: .
+Saldo inicial: 654.0
+Partidas jugadas: 0
+-------------------------------------------------------------
+
+***************** Juego iniciado ***************************
+
+29/05/2017
+--------------- Apuesta realizada --------------------------
+
+29/05/2017
+En juego: 10.0
+Nuevo saldo: 644.0
+-----------------------------------------------------------
+
+--------------- Apuesta realizada --------------------------
+
+29/05/2017
+En juego: 20.0
+Nuevo saldo: 634.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+29/05/2017
+Dinero en Juego: 20.0
+Cartas del jugador: 
+	Cuatro	de	Oros
+	Siete	de	Oros
+	Sota	de	Copas
+	Caballo	de	Espadas
+	Sota	de	Bastos
+Cartas de la máquina: 
+	Cinco	de	Oros
+	As	de	Copas
+	Cuatro	de	Copas
+	Seis	de	Copas
+	Cinco	de	Espadas
+Cartas descartadas: 
+	Cinco	de	Copas
+Por carta mayor Ganaste con una pareja
+Ganancia: 20.0
+Nuevo saldo: 654.0
+--------------------------------------------------------------
+
+******************* Juego Nuevo ***************************
+
+29/05/2017
+--------------- Apuesta realizada --------------------------
+
+29/05/2017
+En juego: 10.0
+Nuevo saldo: 644.0
+-----------------------------------------------------------
+
+--------------- Apuesta realizada --------------------------
+
+29/05/2017
+En juego: 20.0
+Nuevo saldo: 634.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+29/05/2017
+Dinero en Juego: 20.0
+Cartas del jugador: 
+	Cuatro	de	Espadas
+	Nueve	de	Espadas
+	As	de	Bastos
+	Ocho	de	Bastos
+	Caballo	de	Bastos
+Cartas de la máquina: 
+	As	de	Oros
+	Siete	de	Oros
+	Caballo	de	Oros
+	Dos	de	Espadas
+	Dos	de	Bastos
+Cartas descartadas: 
+	Seis	de	Oros
+Gana la máquina con una pareja
+Ganancia: -20.0
+Nuevo saldo: 614.0
+--------------------------------------------------------------
+
+******************* Juego Nuevo ***************************
+
+29/05/2017
+***************** SALIÓ DEL JUEGO*******************************
+
+29/05/2017
+*****************************************************************
+

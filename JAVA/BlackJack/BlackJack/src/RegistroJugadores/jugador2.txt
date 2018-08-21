@@ -1,0 +1,11 @@
+--------------- NIF:jugador2 --------------------
+
+Fecha de registro30/06/2017
+Nombre: J2
+Apellidos: .
+Fecha de nacimiento: 27/07/1961
+Cuenta bancaria: .
+Saldo inicial: 300.0
+Partidas jugadas: 0
+-------------------------------------------------------------
+

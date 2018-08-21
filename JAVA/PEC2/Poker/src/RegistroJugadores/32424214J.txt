@@ -1,0 +1,11 @@
+--------------- NIF:32424214J --------------------
+
+Fecha de registro06/05/2017
+Nombre: Pepe
+Apellidos: Gil Sánchez
+Fecha de nacimiento: 03/06/1975
+Cuenta bancaria: AFG342525KL352P
+Saldo inicial: 300.0
+Partidas jugadas: 0
+-------------------------------------------------------------
+

@@ -1,0 +1,193 @@
+--------------- NIF:jugador1 --------------------
+
+Fecha de registro30/06/2017
+Nombre: J1
+Apellidos: .
+Fecha de nacimiento: 24/09/1993
+Cuenta bancaria: .
+Saldo inicial: 200.0
+Partidas jugadas: 0
+-------------------------------------------------------------
+
+***************** SALIÓ DEL JUEGO*******************************
+
+30/06/2017
+*****************************************************************
+
+******************* Juego Nuevo ***************************
+
+30/06/2017
+--------------- Apuesta realizada --------------------------
+
+30/06/2017
+En juego: 10.0
+Nuevo saldo: 190.0
+-----------------------------------------------------------
+
+******************* Juego Nuevo ***************************
+
+30/06/2017
+--------------- Apuesta realizada --------------------------
+
+30/06/2017
+En juego: 45.0
+Nuevo saldo: 155.0
+-----------------------------------------------------------
+
+******************* Juego Nuevo ***************************
+
+30/06/2017
+--------------- Apuesta realizada --------------------------
+
+30/06/2017
+En juego: 45.0
+Nuevo saldo: 155.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+30/06/2017
+Dinero en Juego: 45.0
+Cartas del jugador: 
+	Tres	de	Oros
+	Cinco	de	Oros
+	Ocho	de	Espadas
+Cartas del crupier: 
+	Siete	de	Oros
+	Nueve	de	Oros
+	Tres	de	Espadas
+Gana el Crupier con Superior
+Ganancia: 90.0
+Nuevo saldo: 65.0
+--------------------------------------------------------------
+
+******************* Juego Nuevo ***************************
+
+30/06/2017
+******************* Juego Nuevo ***************************
+
+30/06/2017
+--------------- Apuesta realizada --------------------------
+
+30/06/2017
+En juego: 45.0
+Nuevo saldo: 155.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+30/06/2017
+Dinero en Juego: 45.0
+Cartas del jugador: 
+	Dos	de	Oros
+	Sota	de	Bastos
+	Rey	de	Bastos
+Cartas del crupier: 
+	Cinco	de	Oros
+	Nueve	de	Copas
+	Seis	de	Bastos
+Gana el Crupier con Superior
+Ganancia: 90.0
+Nuevo saldo: 65.0
+--------------------------------------------------------------
+
+******************* Juego Nuevo ***************************
+
+30/06/2017
+--------------- Apuesta realizada --------------------------
+
+30/06/2017
+En juego: 45.0
+Nuevo saldo: 155.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+30/06/2017
+Dinero en Juego: 45.0
+Cartas del jugador: 
+	Dos	de	Copas
+	Tres	de	Copas
+	Cuatro	de	Bastos
+Cartas del crupier: 
+	Seis	de	Bastos
+	Ocho	de	Bastos
+	Rey	de	Bastos
+Gana jugador1 con Superior
+Ganancia: 90.0
+Nuevo saldo: 245.0
+--------------------------------------------------------------
+
+***************** SALIÓ DEL JUEGO*******************************
+
+30/06/2017
+*****************************************************************
+
+******************* Juego Nuevo ***************************
+
+02/07/2017
+--------------- Apuesta realizada --------------------------
+
+02/07/2017
+En juego: 10.0
+Nuevo saldo: 235.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+02/07/2017
+Dinero en Juego: 10.0
+Cartas del jugador: 
+	Rey	de	Copas
+	Ocho	de	Espadas
+Cartas del crupier: 
+	Rey	de	Espadas
+	Nueve	de	Bastos
+Gana el Crupier con Superior
+Ganancia: 20.0
+Nuevo saldo: 215.0
+--------------------------------------------------------------
+
+******************* Juego Nuevo ***************************
+
+02/07/2017
+--------------- Apuesta realizada --------------------------
+
+02/07/2017
+En juego: 10.0
+Nuevo saldo: 205.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+02/07/2017
+Dinero en Juego: 10.0
+Cartas del jugador: 
+	Cuatro	de	Oros
+	Rey	de	Oros
+	Nueve	de	Copas
+Cartas del crupier: 
+	Caballo	de	Copas
+	As	de	Bastos
+Gana el Crupier con BlackJack
+Ganancia: 40.0
+Nuevo saldo: 165.0
+--------------------------------------------------------------
+
+***************** SALIÓ DEL JUEGO*******************************
+
+02/07/2017
+*****************************************************************
+
+--------------- Retirada de saldo --------------------------
+
+02/07/2017
+Nuevo saldo: 100.0
+-----------------------------------------------------------
+
+--------------- Aumento de saldo --------------------------
+
+02/07/2017
+Nuevo saldo: 300.0
+------------------------------------------------------------
+

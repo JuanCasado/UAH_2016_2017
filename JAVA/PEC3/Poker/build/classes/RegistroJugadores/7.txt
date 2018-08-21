@@ -1,0 +1,97 @@
+--------------- NIF:7 --------------------
+
+Fecha de registro29/05/2017
+Nombre: 7
+Apellidos: .
+Fecha de nacimiento: 28/06/1906
+Cuenta bancaria: .
+Saldo inicial: 76543.0
+Partidas jugadas: 0
+-------------------------------------------------------------
+
+***************** Juego iniciado ***************************
+
+29/05/2017
+--------------- Apuesta realizada --------------------------
+
+29/05/2017
+En juego: 10.0
+Nuevo saldo: 76533.0
+-----------------------------------------------------------
+
+--------------- Apuesta realizada --------------------------
+
+29/05/2017
+En juego: 20.0
+Nuevo saldo: 76523.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+29/05/2017
+Dinero en Juego: 20.0
+Cartas del jugador: 
+	Sota	de	Oros
+	Dos	de	Copas
+	Cuatro	de	Copas
+	Rey	de	Copas
+	Ocho	de	Bastos
+Cartas de la máquina: 
+	Tres	de	Oros
+	As	de	Espadas
+	Sota	de	Espadas
+	Seis	de	Bastos
+	Siete	de	Bastos
+Cartas descartadas: 
+	Cuatro	de	Bastos
+Por carta mayor Ganaste con nada
+Ganancia: 0.0
+Nuevo saldo: 76523.0
+--------------------------------------------------------------
+
+******************* Juego Nuevo ***************************
+
+29/05/2017
+--------------- Apuesta realizada --------------------------
+
+29/05/2017
+En juego: 10.0
+Nuevo saldo: 76513.0
+-----------------------------------------------------------
+
+--------------- Apuesta realizada --------------------------
+
+29/05/2017
+En juego: 20.0
+Nuevo saldo: 76503.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+29/05/2017
+Dinero en Juego: 20.0
+Cartas del jugador: 
+	Tres	de	Oros
+	Cinco	de	Oros
+	Cuatro	de	Copas
+	Cuatro	de	Bastos
+	Caballo	de	Bastos
+Cartas de la máquina: 
+	Sota	de	Copas
+	Nueve	de	Espadas
+	Rey	de	Espadas
+	Dos	de	Bastos
+	Nueve	de	Bastos
+Cartas descartadas: 
+	Nueve	de	Oros
+	Siete	de	Bastos
+Por carta mayor Gana la máquina con una pareja
+Ganancia: -20.0
+Nuevo saldo: 76483.0
+--------------------------------------------------------------
+
+***************** SALIÓ DEL JUEGO*******************************
+
+29/05/2017
+*****************************************************************
+

@@ -1,0 +1,40 @@
+------------------------------------ Casa de apuestas -----------------------------------
+
+--------------------------------- Registro de Jugadores ---------------------------------
+
+Nombre: J1 .	DNI: jugador1
+Fecha de nacimiento: 24/09/1993	Fecha de registro: 30/06/2017
+Cuenta bancaria: .	Saldo: 300.0$
+Partidas Jugadas: 3
+---------------------------------------------------------------------------------------
+
+Nombre: AAmaquina .	DNI: Crupier
+Fecha de nacimiento: 30/06/2017	Fecha de registro: 30/06/2017
+Cuenta bancaria: xxx	Saldo: -20.0$
+Partidas Jugadas: 5
+---------------------------------------------------------------------------------------
+
+Nombre: J4 .	DNI: jugador4
+Fecha de nacimiento: 27/10/1905	Fecha de registro: 30/06/2017
+Cuenta bancaria: .	Saldo: 210.0$
+Partidas Jugadas: 3
+---------------------------------------------------------------------------------------
+
+Nombre: J5 .	DNI: jugador5
+Fecha de nacimiento: 12/10/1987	Fecha de registro: 30/06/2017
+Cuenta bancaria: .	Saldo: 244.0$
+Partidas Jugadas: 2
+---------------------------------------------------------------------------------------
+
+Nombre: J2 .	DNI: jugador2
+Fecha de nacimiento: 27/07/1961	Fecha de registro: 30/06/2017
+Cuenta bancaria: .	Saldo: 300.0$
+Partidas Jugadas: 0
+---------------------------------------------------------------------------------------
+
+Nombre: J3 .	DNI: jugador3
+Fecha de nacimiento: 22/07/1904	Fecha de registro: 30/06/2017
+Cuenta bancaria: .	Saldo: 190.0$
+Partidas Jugadas: 0
+---------------------------------------------------------------------------------------
+

@@ -1,0 +1,11 @@
+--------------- NIF:5 --------------------
+
+Fecha de registro29/05/2017
+Nombre: 5
+Apellidos: .
+Fecha de nacimiento: 26/07/1976
+Cuenta bancaria: .
+Saldo inicial: 7654.0
+Partidas jugadas: 0
+-------------------------------------------------------------
+

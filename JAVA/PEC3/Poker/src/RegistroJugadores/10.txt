@@ -1,0 +1,11 @@
+--------------- NIF:10 --------------------
+
+Fecha de registro29/05/2017
+Nombre: 10
+Apellidos: .
+Fecha de nacimiento: 27/09/1965
+Cuenta bancaria: .
+Saldo inicial: 56.0
+Partidas jugadas: 0
+-------------------------------------------------------------
+

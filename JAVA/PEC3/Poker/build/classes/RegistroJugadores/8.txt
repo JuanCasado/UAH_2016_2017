@@ -1,0 +1,11 @@
+--------------- NIF:8 --------------------
+
+Fecha de registro29/05/2017
+Nombre: 8
+Apellidos: .
+Fecha de nacimiento: 16/09/1998
+Cuenta bancaria: .
+Saldo inicial: 7654.0
+Partidas jugadas: 0
+-------------------------------------------------------------
+

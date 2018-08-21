@@ -1,0 +1,11 @@
+--------------- NIF:jugador3 --------------------
+
+Fecha de registro30/06/2017
+Nombre: J3
+Apellidos: .
+Fecha de nacimiento: 22/07/1904
+Cuenta bancaria: .
+Saldo inicial: 190.0
+Partidas jugadas: 0
+-------------------------------------------------------------
+

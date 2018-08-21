@@ -1,0 +1,69 @@
+------------------------------------ Casa de apuestas -----------------------------------
+
+Dinero Registrado: 243255.0$
+Dinero Ocasional: 0.0$
+Beneficio: 180.0$
+Dinero total: 243435.0$
+Partidas totales: 8
+--------------------------------- Registro de Jugadores ---------------------------------
+
+Nombre: 1 .	DNI: 1
+Fecha de nacimiento: 27/07/1980	Fecha de registro: 29/05/2017
+Cuenta bancaria: .	Saldo: 220.0$
+Partidas Jugadas: 3
+---------------------------------------------------------------------------------------
+
+Nombre: 2 .	DNI: 2
+Fecha de nacimiento: 30/08/1995	Fecha de registro: 29/05/2017
+Cuenta bancaria: .	Saldo: 614.0$
+Partidas Jugadas: 3
+---------------------------------------------------------------------------------------
+
+Nombre: 3 .	DNI: 3
+Fecha de nacimiento: 08/09/1994	Fecha de registro: 29/05/2017
+Cuenta bancaria: .	Saldo: 76543.0$
+Partidas Jugadas: 0
+---------------------------------------------------------------------------------------
+
+Nombre: 4 .	DNI: 4
+Fecha de nacimiento: 18/09/1996	Fecha de registro: 29/05/2017
+Cuenta bancaria: .	Saldo: 65432.0$
+Partidas Jugadas: 0
+---------------------------------------------------------------------------------------
+
+Nombre: 5 .	DNI: 5
+Fecha de nacimiento: 26/07/1976	Fecha de registro: 29/05/2017
+Cuenta bancaria: .	Saldo: 7654.0$
+Partidas Jugadas: 0
+---------------------------------------------------------------------------------------
+
+Nombre: 6 .	DNI: 6
+Fecha de nacimiento: 27/08/1973	Fecha de registro: 29/05/2017
+Cuenta bancaria: .	Saldo: 7654.0$
+Partidas Jugadas: 0
+---------------------------------------------------------------------------------------
+
+Nombre: 7 .	DNI: 7
+Fecha de nacimiento: 28/06/1906	Fecha de registro: 29/05/2017
+Cuenta bancaria: .	Saldo: 76483.0$
+Partidas Jugadas: 2
+---------------------------------------------------------------------------------------
+
+Nombre: 8 .	DNI: 8
+Fecha de nacimiento: 16/09/1998	Fecha de registro: 29/05/2017
+Cuenta bancaria: .	Saldo: 7654.0$
+Partidas Jugadas: 0
+---------------------------------------------------------------------------------------
+
+Nombre: 9 .	DNI: 9
+Fecha de nacimiento: 29/09/1991	Fecha de registro: 29/05/2017
+Cuenta bancaria: .	Saldo: 765.0$
+Partidas Jugadas: 0
+---------------------------------------------------------------------------------------
+
+Nombre: 10 .	DNI: 10
+Fecha de nacimiento: 27/09/1965	Fecha de registro: 29/05/2017
+Cuenta bancaria: .	Saldo: 56.0$
+Partidas Jugadas: 0
+---------------------------------------------------------------------------------------
+

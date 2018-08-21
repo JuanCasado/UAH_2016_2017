@@ -1,0 +1,146 @@
+--------------- NIF:1 --------------------
+
+Fecha de registro29/05/2017
+Nombre: 1
+Apellidos: .
+Fecha de nacimiento: 27/07/1980
+Cuenta bancaria: .
+Saldo inicial: 300.0
+Partidas jugadas: 0
+-------------------------------------------------------------
+
+***************** Juego iniciado ***************************
+
+29/05/2017
+--------------- Apuesta realizada --------------------------
+
+29/05/2017
+En juego: 10.0
+Nuevo saldo: 290.0
+-----------------------------------------------------------
+
+--------------- Apuesta realizada --------------------------
+
+29/05/2017
+En juego: 20.0
+Nuevo saldo: 280.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+29/05/2017
+Dinero en Juego: 20.0
+Cartas del jugador: 
+	As	de	Oros
+	Siete	de	Oros
+	Rey	de	Espadas
+	Nueve	de	Bastos
+	Caballo	de	Bastos
+Cartas de la máquina: 
+	Dos	de	Oros
+	Caballo	de	Oros
+	Dos	de	Copas
+	Cinco	de	Copas
+	As	de	Bastos
+Cartas descartadas: 
+	Ocho	de	Oros
+Gana la máquina con una pareja
+Ganancia: -20.0
+Nuevo saldo: 260.0
+--------------------------------------------------------------
+
+******************* Juego Nuevo ***************************
+
+29/05/2017
+--------------- Apuesta realizada --------------------------
+
+29/05/2017
+En juego: 10.0
+Nuevo saldo: 250.0
+-----------------------------------------------------------
+
+--------------- Apuesta realizada --------------------------
+
+29/05/2017
+En juego: 20.0
+Nuevo saldo: 240.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+29/05/2017
+Dinero en Juego: 20.0
+Cartas del jugador: 
+	Seis	de	Oros
+	Siete	de	Oros
+	Nueve	de	Copas
+	Caballo	de	Copas
+	Caballo	de	Bastos
+Cartas de la máquina: 
+	Cuatro	de	Oros
+	Nueve	de	Oros
+	Seis	de	Copas
+	Rey	de	Copas
+	Nueve	de	Bastos
+Cartas descartadas: 
+	As	de	Espadas
+	Rey	de	Bastos
+Por carta mayor Ganaste con una pareja
+Ganancia: 20.0
+Nuevo saldo: 260.0
+--------------------------------------------------------------
+
+******************* Juego Nuevo ***************************
+
+29/05/2017
+--------------- Apuesta realizada --------------------------
+
+29/05/2017
+En juego: 10.0
+Nuevo saldo: 250.0
+-----------------------------------------------------------
+
+--------------- Apuesta realizada --------------------------
+
+29/05/2017
+En juego: 20.0
+Nuevo saldo: 240.0
+-----------------------------------------------------------
+
+--------------- Resultados de la partida --------------------------
+
+29/05/2017
+Dinero en Juego: 20.0
+Cartas del jugador: 
+	Cinco	de	Copas
+	As	de	Espadas
+	Tres	de	Espadas
+	Caballo	de	Bastos
+	Rey	de	Bastos
+Cartas de la máquina: 
+	Caballo	de	Oros
+	Caballo	de	Espadas
+	Tres	de	Bastos
+	Siete	de	Bastos
+	Nueve	de	Bastos
+Cartas descartadas: 
+	Siete	de	Espadas
+	Rey	de	Espadas
+Gana la máquina con una pareja
+Ganancia: -20.0
+Nuevo saldo: 220.0
+--------------------------------------------------------------
+
+***************** SALIÓ DEL JUEGO*******************************
+
+29/05/2017
+*****************************************************************
+
+--------------- Retirada de saldo +FECHA --------------------------
+
+30/05/2017
+Nueva fecha: 27/10/2042
+Dinero devuelto extra por fecha: 281.6
+Nuevo saldo: 190.0
+-----------------------------------------------------------
+
