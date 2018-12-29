@@ -8,4 +8,4 @@ Contact me at my website.
 
 Project done by Juan Casado Ballesteros
 
-[Mr.BlissfulGrin](http://www.mrblissfulgrin.com "mrblissfulgrin")
+[mrblissfulgrin](http://www.mrblissfulgrin.com "mrblissfulgrin")
